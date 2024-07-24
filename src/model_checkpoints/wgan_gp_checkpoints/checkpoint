@@ -1,0 +1,3 @@
+model_checkpoint_path: "src/model_checkpoints/wgan_gp_checkpoints/wgan_gp_ckpt-107"
+all_model_checkpoint_paths: "src/model_checkpoints/wgan_gp_checkpoints/wgan_gp_ckpt-107"
+all_model_checkpoint_timestamps: 1721767614.2511675
