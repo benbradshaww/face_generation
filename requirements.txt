@@ -1,0 +1,11 @@
+tensorflow==2.14.*
+tensorflow_addons==0.22.0
+pandas
+numpy
+#time
+#os
+matplotlib
+IPython
+tqdm
+imageio
+scipy
