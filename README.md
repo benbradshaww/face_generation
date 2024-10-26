@@ -33,3 +33,7 @@ The folders and files in this repository are organized as follows:
 	* 10000_images/: Contains a 10000 sample of the celebA dataset.
     * 10000_images_downscaled/: Contains a 10000 downscaled sample of the celebA dataset.
 * notebooks/:
+
+## Results
+I have written the code for WGAN-Gp and StyleGan but I have only trained the WGAN-Gp model. This model gave produced the following images during training.
+![Alt text](src\training_images\training_gifs\wgan_gp_training_gif.gif)
